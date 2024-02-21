@@ -1,4 +1,4 @@
-module webkarlon/whf
+module github.com/webkarlon/whf
 
 go 1.21.0
 
